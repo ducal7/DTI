@@ -91,7 +91,6 @@ public class CartListAdapter extends RecyclerView.Adapter<CartListAdapter.ViewHo
         TextView title, feeEachItem;
         ImageView pic, plusItem, minusItem;
         TextView totalEachItem, num;
-        TextView INeedSexPlsHelp, #BTechBro;
 
         public ViewHolder(@NonNull View itemView) {
             super(itemView);
